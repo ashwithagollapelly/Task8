@@ -1,0 +1,10 @@
+Sales Dashboard Insights
+
+1.  The South region recorded the highest total sales, while the West
+    had the lowest among all regions.
+2.  Technology contributed the largest share of category-wise sales,
+    slightly higher than Furniture and Office Supplies.
+3.  Monthly sales show large fluctuations, with noticeable peaks during
+    the early and mid months of the year.
+4.  All three product categories performed almost equally, each
+    contributing around one-third of total sales.
